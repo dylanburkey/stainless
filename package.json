@@ -1,0 +1,14 @@
+{
+  "name": "stainless",
+  "version": "1.0.0",
+  "description": "Stainless Handlebars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan Burkey",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
